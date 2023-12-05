@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{478E6351-AC5A-4CDE-B598-86537C84702B}"
+	ProjectSection(SolutionItems) = preProject
+		Doctor.cs = Doctor.cs
+		HospitalContext.cs = HospitalContext.cs
+		Patient.cs = Patient.cs
+		Visits.cs = Visits.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42FD7510-BC09-49E7-A2A0-4BECC03AF253}
+	EndGlobalSection
+EndGlobal
